@@ -28,7 +28,6 @@
 
 ## 🖼️ Capturas de pantalla
 
-> (Aquí puedes insertar imágenes de la interfaz)
 
 ---
 
